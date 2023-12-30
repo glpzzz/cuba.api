@@ -1,0 +1,1010 @@
+[
+    {
+        "id": "2101",
+        "name": "Sandino",
+        "province_id": "21",
+        "slug": "sandino"
+    },
+    {
+        "id": "2102",
+        "name": "Mantua",
+        "province_id": "21",
+        "slug": "mantua"
+    },
+    {
+        "id": "2103",
+        "name": "Minas de Matahambre",
+        "province_id": "21",
+        "slug": "minas-de-matahambre"
+    },
+    {
+        "id": "2104",
+        "name": "Viñales",
+        "province_id": "21",
+        "slug": "vi-ales"
+    },
+    {
+        "id": "2105",
+        "name": "La Palma",
+        "province_id": "21",
+        "slug": "la-palma"
+    },
+    {
+        "id": "2106",
+        "name": "Los Palacios",
+        "province_id": "21",
+        "slug": "los-palacios"
+    },
+    {
+        "id": "2107",
+        "name": "Consolación del Sur",
+        "province_id": "21",
+        "slug": "consolacion-del-sur"
+    },
+    {
+        "id": "2108",
+        "name": "Pinar del Río",
+        "province_id": "21",
+        "slug": "pinar-del-rio"
+    },
+    {
+        "id": "2109",
+        "name": "San Luis",
+        "province_id": "21",
+        "slug": "san-luis"
+    },
+    {
+        "id": "2110",
+        "name": "San Juan y Martínez",
+        "province_id": "21",
+        "slug": "san-juan-y-martinez"
+    },
+    {
+        "id": "2111",
+        "name": "Guane",
+        "province_id": "21",
+        "slug": "guane"
+    },
+    {
+        "id": "2201",
+        "name": "Bahía Honda",
+        "province_id": "22",
+        "slug": "bahia-honda"
+    },
+    {
+        "id": "2202",
+        "name": "Mariel",
+        "province_id": "22",
+        "slug": "mariel"
+    },
+    {
+        "id": "2203",
+        "name": "Guanajay",
+        "province_id": "22",
+        "slug": "guanajay"
+    },
+    {
+        "id": "2204",
+        "name": "Caimito",
+        "province_id": "22",
+        "slug": "caimito"
+    },
+    {
+        "id": "2205",
+        "name": "Bauta",
+        "province_id": "22",
+        "slug": "bauta"
+    },
+    {
+        "id": "2206",
+        "name": "San Antonio de los Baños",
+        "province_id": "22",
+        "slug": "san-antonio-de-los-ba-os"
+    },
+    {
+        "id": "2207",
+        "name": "Güira de Melena",
+        "province_id": "22",
+        "slug": "guira-de-melena"
+    },
+    {
+        "id": "2208",
+        "name": "Alquízar",
+        "province_id": "22",
+        "slug": "alquizar"
+    },
+    {
+        "id": "2209",
+        "name": "Artemisa",
+        "province_id": "22",
+        "slug": "artemisa"
+    },
+    {
+        "id": "2210",
+        "name": "Candelaria",
+        "province_id": "22",
+        "slug": "candelaria"
+    },
+    {
+        "id": "2211",
+        "name": "San Cristóbal",
+        "province_id": "22",
+        "slug": "san-cristobal"
+    },
+    {
+        "id": "2301",
+        "name": "Playa",
+        "province_id": "23",
+        "slug": "playa"
+    },
+    {
+        "id": "2302",
+        "name": "Plaza de la Revolución",
+        "province_id": "23",
+        "slug": "plaza-de-la-revolucion"
+    },
+    {
+        "id": "2303",
+        "name": "Centro Habana",
+        "province_id": "23",
+        "slug": "centro-habana"
+    },
+    {
+        "id": "2304",
+        "name": "La Habana Vieja",
+        "province_id": "23",
+        "slug": "la-habana-vieja"
+    },
+    {
+        "id": "2305",
+        "name": "Regla",
+        "province_id": "23",
+        "slug": "regla"
+    },
+    {
+        "id": "2306",
+        "name": "La Habana del Este",
+        "province_id": "23",
+        "slug": "la-habana-del-este"
+    },
+    {
+        "id": "2307",
+        "name": "Guanabacoa",
+        "province_id": "23",
+        "slug": "guanabacoa"
+    },
+    {
+        "id": "2308",
+        "name": "San Miguel del Padrón",
+        "province_id": "23",
+        "slug": "san-miguel-del-padron"
+    },
+    {
+        "id": "2309",
+        "name": "Diez de Octubre",
+        "province_id": "23",
+        "slug": "diez-de-octubre"
+    },
+    {
+        "id": "2310",
+        "name": "Cerro",
+        "province_id": "23",
+        "slug": "cerro"
+    },
+    {
+        "id": "2311",
+        "name": "Marianao",
+        "province_id": "23",
+        "slug": "marianao"
+    },
+    {
+        "id": "2312",
+        "name": "La Lisa",
+        "province_id": "23",
+        "slug": "la-lisa"
+    },
+    {
+        "id": "2313",
+        "name": "Boyeros",
+        "province_id": "23",
+        "slug": "boyeros"
+    },
+    {
+        "id": "2314",
+        "name": "Arroyo Naranjo",
+        "province_id": "23",
+        "slug": "arroyo-naranjo"
+    },
+    {
+        "id": "2315",
+        "name": "Cotorro",
+        "province_id": "23",
+        "slug": "cotorro"
+    },
+    {
+        "id": "2401",
+        "name": "Bejucal",
+        "province_id": "24",
+        "slug": "bejucal"
+    },
+    {
+        "id": "2402",
+        "name": "San José de las Lajas",
+        "province_id": "24",
+        "slug": "san-jose-de-las-lajas"
+    },
+    {
+        "id": "2403",
+        "name": "Jaruco",
+        "province_id": "24",
+        "slug": "jaruco"
+    },
+    {
+        "id": "2404",
+        "name": "Santa Cruz del Norte",
+        "province_id": "24",
+        "slug": "santa-cruz-del-norte"
+    },
+    {
+        "id": "2405",
+        "name": "Madruga",
+        "province_id": "24",
+        "slug": "madruga"
+    },
+    {
+        "id": "2406",
+        "name": "Nueva Paz",
+        "province_id": "24",
+        "slug": "nueva-paz"
+    },
+    {
+        "id": "2407",
+        "name": "San Nicolás",
+        "province_id": "24",
+        "slug": "san-nicolas"
+    },
+    {
+        "id": "2408",
+        "name": "Güines",
+        "province_id": "24",
+        "slug": "guines"
+    },
+    {
+        "id": "2409",
+        "name": "Melena del Sur",
+        "province_id": "24",
+        "slug": "melena-del-sur"
+    },
+    {
+        "id": "2410",
+        "name": "Batabanó",
+        "province_id": "24",
+        "slug": "batabano"
+    },
+    {
+        "id": "2411",
+        "name": "Quivicán",
+        "province_id": "24",
+        "slug": "quivican"
+    },
+    {
+        "id": "2501",
+        "name": "Matanzas",
+        "province_id": "25",
+        "slug": "matanzas"
+    },
+    {
+        "id": "2502",
+        "name": "Cárdenas",
+        "province_id": "25",
+        "slug": "cardenas"
+    },
+    {
+        "id": "2503",
+        "name": "Martí",
+        "province_id": "25",
+        "slug": "marti"
+    },
+    {
+        "id": "2504",
+        "name": "Colón",
+        "province_id": "25",
+        "slug": "colon"
+    },
+    {
+        "id": "2505",
+        "name": "Perico",
+        "province_id": "25",
+        "slug": "perico"
+    },
+    {
+        "id": "2506",
+        "name": "Jovellanos",
+        "province_id": "25",
+        "slug": "jovellanos"
+    },
+    {
+        "id": "2507",
+        "name": "Pedro Betancourt",
+        "province_id": "25",
+        "slug": "pedro-betancourt"
+    },
+    {
+        "id": "2508",
+        "name": "Limonar",
+        "province_id": "25",
+        "slug": "limonar"
+    },
+    {
+        "id": "2509",
+        "name": "Unión de Reyes",
+        "province_id": "25",
+        "slug": "union-de-reyes"
+    },
+    {
+        "id": "2510",
+        "name": "Ciénaga de Zapata",
+        "province_id": "25",
+        "slug": "cienaga-de-zapata"
+    },
+    {
+        "id": "2511",
+        "name": "Jaguey Grande",
+        "province_id": "25",
+        "slug": "jaguey-grande"
+    },
+    {
+        "id": "2512",
+        "name": "Calimete",
+        "province_id": "25",
+        "slug": "calimete"
+    },
+    {
+        "id": "2513",
+        "name": "Los Arabos",
+        "province_id": "25",
+        "slug": "los-arabos"
+    },
+    {
+        "id": "2601",
+        "name": "Corralillo",
+        "province_id": "26",
+        "slug": "corralillo"
+    },
+    {
+        "id": "2602",
+        "name": "Quemado de Guines",
+        "province_id": "26",
+        "slug": "quemado-de-guines"
+    },
+    {
+        "id": "2603",
+        "name": "Sagua La Grande",
+        "province_id": "26",
+        "slug": "sagua-la-grande"
+    },
+    {
+        "id": "2604",
+        "name": "Encrucijada",
+        "province_id": "26",
+        "slug": "encrucijada"
+    },
+    {
+        "id": "2605",
+        "name": "Camajuaní",
+        "province_id": "26",
+        "slug": "camajuani"
+    },
+    {
+        "id": "2606",
+        "name": "Caibarién",
+        "province_id": "26",
+        "slug": "caibarien"
+    },
+    {
+        "id": "2607",
+        "name": "Remedios",
+        "province_id": "26",
+        "slug": "remedios"
+    },
+    {
+        "id": "2608",
+        "name": "Placetas",
+        "province_id": "26",
+        "slug": "placetas"
+    },
+    {
+        "id": "2609",
+        "name": "Santa Clara",
+        "province_id": "26",
+        "slug": "santa-clara"
+    },
+    {
+        "id": "2610",
+        "name": "Cifuentes",
+        "province_id": "26",
+        "slug": "cifuentes"
+    },
+    {
+        "id": "2611",
+        "name": "Santo Domingo",
+        "province_id": "26",
+        "slug": "santo-domingo"
+    },
+    {
+        "id": "2612",
+        "name": "Ranchuelo",
+        "province_id": "26",
+        "slug": "ranchuelo"
+    },
+    {
+        "id": "2613",
+        "name": "Manicaragua",
+        "province_id": "26",
+        "slug": "manicaragua"
+    },
+    {
+        "id": "2701",
+        "name": "Aguada de Pasajeros",
+        "province_id": "27",
+        "slug": "aguada-de-pasajeros"
+    },
+    {
+        "id": "2702",
+        "name": "Rodas",
+        "province_id": "27",
+        "slug": "rodas"
+    },
+    {
+        "id": "2703",
+        "name": "Palmira",
+        "province_id": "27",
+        "slug": "palmira"
+    },
+    {
+        "id": "2704",
+        "name": "Lajas",
+        "province_id": "27",
+        "slug": "lajas"
+    },
+    {
+        "id": "2705",
+        "name": "Cruces",
+        "province_id": "27",
+        "slug": "cruces"
+    },
+    {
+        "id": "2706",
+        "name": "Cumanayagua",
+        "province_id": "27",
+        "slug": "cumanayagua"
+    },
+    {
+        "id": "2707",
+        "name": "Cienfuegos",
+        "province_id": "27",
+        "slug": "cienfuegos"
+    },
+    {
+        "id": "2708",
+        "name": "Abreus",
+        "province_id": "27",
+        "slug": "abreus"
+    },
+    {
+        "id": "2801",
+        "name": "Yaguajay",
+        "province_id": "28",
+        "slug": "yaguajay"
+    },
+    {
+        "id": "2802",
+        "name": "Jatibonico",
+        "province_id": "28",
+        "slug": "jatibonico"
+    },
+    {
+        "id": "2803",
+        "name": "Taguasco",
+        "province_id": "28",
+        "slug": "taguasco"
+    },
+    {
+        "id": "2804",
+        "name": "Cabaiguan",
+        "province_id": "28",
+        "slug": "cabaiguan"
+    },
+    {
+        "id": "2805",
+        "name": "Fomento",
+        "province_id": "28",
+        "slug": "fomento"
+    },
+    {
+        "id": "2806",
+        "name": "Trinidad",
+        "province_id": "28",
+        "slug": "trinidad"
+    },
+    {
+        "id": "2807",
+        "name": "Sanctí Spíritus",
+        "province_id": "28",
+        "slug": "sancti-spiritus"
+    },
+    {
+        "id": "2808",
+        "name": "La Sierpe",
+        "province_id": "28",
+        "slug": "la-sierpe"
+    },
+    {
+        "id": "2901",
+        "name": "Chambas",
+        "province_id": "29",
+        "slug": "chambas"
+    },
+    {
+        "id": "2902",
+        "name": "Morón",
+        "province_id": "29",
+        "slug": "moron"
+    },
+    {
+        "id": "2903",
+        "name": "Bolivia",
+        "province_id": "29",
+        "slug": "bolivia"
+    },
+    {
+        "id": "2904",
+        "name": "Primero de Enero",
+        "province_id": "29",
+        "slug": "primero-de-enero"
+    },
+    {
+        "id": "2905",
+        "name": "Ciro Redondo",
+        "province_id": "29",
+        "slug": "ciro-redondo"
+    },
+    {
+        "id": "2906",
+        "name": "Florencia",
+        "province_id": "29",
+        "slug": "florencia"
+    },
+    {
+        "id": "2907",
+        "name": "Majagua",
+        "province_id": "29",
+        "slug": "majagua"
+    },
+    {
+        "id": "2908",
+        "name": "Ciego de Ávila",
+        "province_id": "29",
+        "slug": "ciego-de-avila"
+    },
+    {
+        "id": "2909",
+        "name": "Venezuela",
+        "province_id": "29",
+        "slug": "venezuela"
+    },
+    {
+        "id": "2910",
+        "name": "Baraguá",
+        "province_id": "29",
+        "slug": "baragua"
+    },
+    {
+        "id": "3001",
+        "name": "Carlos Manuel de Céspedes",
+        "province_id": "30",
+        "slug": "carlos-manuel-de-cespedes"
+    },
+    {
+        "id": "3002",
+        "name": "Esmeralda",
+        "province_id": "30",
+        "slug": "esmeralda"
+    },
+    {
+        "id": "3003",
+        "name": "Sierra de Cubitas",
+        "province_id": "30",
+        "slug": "sierra-de-cubitas"
+    },
+    {
+        "id": "3004",
+        "name": "Minas",
+        "province_id": "30",
+        "slug": "minas"
+    },
+    {
+        "id": "3005",
+        "name": "Nuevitas",
+        "province_id": "30",
+        "slug": "nuevitas"
+    },
+    {
+        "id": "3006",
+        "name": "Guáimaro",
+        "province_id": "30",
+        "slug": "guaimaro"
+    },
+    {
+        "id": "3007",
+        "name": "Sibanicú",
+        "province_id": "30",
+        "slug": "sibanicu"
+    },
+    {
+        "id": "3008",
+        "name": "Camaguey",
+        "province_id": "30",
+        "slug": "camaguey"
+    },
+    {
+        "id": "3009",
+        "name": "Florida",
+        "province_id": "30",
+        "slug": "florida"
+    },
+    {
+        "id": "3010",
+        "name": "Vertientes",
+        "province_id": "30",
+        "slug": "vertientes"
+    },
+    {
+        "id": "3011",
+        "name": "Jimaguayú",
+        "province_id": "30",
+        "slug": "jimaguayu"
+    },
+    {
+        "id": "3012",
+        "name": "Najasa",
+        "province_id": "30",
+        "slug": "najasa"
+    },
+    {
+        "id": "3013",
+        "name": "Santa Cruz del Sur",
+        "province_id": "30",
+        "slug": "santa-cruz-del-sur"
+    },
+    {
+        "id": "3101",
+        "name": "Manatí",
+        "province_id": "31",
+        "slug": "manati"
+    },
+    {
+        "id": "3102",
+        "name": "Puerto Padre",
+        "province_id": "31",
+        "slug": "puerto-padre"
+    },
+    {
+        "id": "3103",
+        "name": "Jesús Menéndez",
+        "province_id": "31",
+        "slug": "jesus-menendez"
+    },
+    {
+        "id": "3104",
+        "name": "Majibacoa",
+        "province_id": "31",
+        "slug": "majibacoa"
+    },
+    {
+        "id": "3105",
+        "name": "Las Tunas",
+        "province_id": "31",
+        "slug": "las-tunas"
+    },
+    {
+        "id": "3106",
+        "name": "Jobabo",
+        "province_id": "31",
+        "slug": "jobabo"
+    },
+    {
+        "id": "3107",
+        "name": "Colombia",
+        "province_id": "31",
+        "slug": "colombia"
+    },
+    {
+        "id": "3108",
+        "name": "Amancio",
+        "province_id": "31",
+        "slug": "amancio"
+    },
+    {
+        "id": "3201",
+        "name": "Gibara",
+        "province_id": "32",
+        "slug": "gibara"
+    },
+    {
+        "id": "3202",
+        "name": "Rafael Freyre",
+        "province_id": "32",
+        "slug": "rafael-freyre"
+    },
+    {
+        "id": "3203",
+        "name": "Banes",
+        "province_id": "32",
+        "slug": "banes"
+    },
+    {
+        "id": "3204",
+        "name": "Antilla",
+        "province_id": "32",
+        "slug": "antilla"
+    },
+    {
+        "id": "3205",
+        "name": "Báguanos",
+        "province_id": "32",
+        "slug": "baguanos"
+    },
+    {
+        "id": "3206",
+        "name": "Holguín",
+        "province_id": "32",
+        "slug": "holguin"
+    },
+    {
+        "id": "3207",
+        "name": "Calixto García",
+        "province_id": "32",
+        "slug": "calixto-garcia"
+    },
+    {
+        "id": "3208",
+        "name": "Cacocúm",
+        "province_id": "32",
+        "slug": "cacocum"
+    },
+    {
+        "id": "3209",
+        "name": "Urbano Noris",
+        "province_id": "32",
+        "slug": "urbano-noris"
+    },
+    {
+        "id": "3210",
+        "name": "Cueto",
+        "province_id": "32",
+        "slug": "cueto"
+    },
+    {
+        "id": "3211",
+        "name": "Mayarí",
+        "province_id": "32",
+        "slug": "mayari"
+    },
+    {
+        "id": "3212",
+        "name": "Frank País",
+        "province_id": "32",
+        "slug": "frank-pais"
+    },
+    {
+        "id": "3213",
+        "name": "Sagua de Tánamo",
+        "province_id": "32",
+        "slug": "sagua-de-tanamo"
+    },
+    {
+        "id": "3214",
+        "name": "Moa",
+        "province_id": "32",
+        "slug": "moa"
+    },
+    {
+        "id": "3301",
+        "name": "Río Cauto",
+        "province_id": "33",
+        "slug": "rio-cauto"
+    },
+    {
+        "id": "3302",
+        "name": "Cauto Cristo",
+        "province_id": "33",
+        "slug": "cauto-cristo"
+    },
+    {
+        "id": "3303",
+        "name": "Jiguaní",
+        "province_id": "33",
+        "slug": "jiguani"
+    },
+    {
+        "id": "3304",
+        "name": "Bayamo",
+        "province_id": "33",
+        "slug": "bayamo"
+    },
+    {
+        "id": "3305",
+        "name": "Yara",
+        "province_id": "33",
+        "slug": "yara"
+    },
+    {
+        "id": "3306",
+        "name": "Manzanillo",
+        "province_id": "33",
+        "slug": "manzanillo"
+    },
+    {
+        "id": "3307",
+        "name": "Campechuela",
+        "province_id": "33",
+        "slug": "campechuela"
+    },
+    {
+        "id": "3308",
+        "name": "Media Luna",
+        "province_id": "33",
+        "slug": "media-luna"
+    },
+    {
+        "id": "3309",
+        "name": "Niquero",
+        "province_id": "33",
+        "slug": "niquero"
+    },
+    {
+        "id": "3310",
+        "name": "Pilón",
+        "province_id": "33",
+        "slug": "pilon"
+    },
+    {
+        "id": "3311",
+        "name": "Bartolomé Masó",
+        "province_id": "33",
+        "slug": "bartolome-maso"
+    },
+    {
+        "id": "3312",
+        "name": "Buey Arriba",
+        "province_id": "33",
+        "slug": "buey-arriba"
+    },
+    {
+        "id": "3313",
+        "name": "Guisa",
+        "province_id": "33",
+        "slug": "guisa"
+    },
+    {
+        "id": "3401",
+        "name": "Contramaestre",
+        "province_id": "34",
+        "slug": "contramaestre"
+    },
+    {
+        "id": "3402",
+        "name": "Mella",
+        "province_id": "34",
+        "slug": "mella"
+    },
+    {
+        "id": "3403",
+        "name": "San Luis",
+        "province_id": "34",
+        "slug": "san-luis"
+    },
+    {
+        "id": "3404",
+        "name": "Segundo Frente",
+        "province_id": "34",
+        "slug": "segundo-frente"
+    },
+    {
+        "id": "3405",
+        "name": "Songo - La Maya",
+        "province_id": "34",
+        "slug": "songo-la-maya"
+    },
+    {
+        "id": "3406",
+        "name": "Santiago de Cuba",
+        "province_id": "34",
+        "slug": "santiago-de-cuba"
+    },
+    {
+        "id": "3407",
+        "name": "Palma Soriano",
+        "province_id": "34",
+        "slug": "palma-soriano"
+    },
+    {
+        "id": "3408",
+        "name": "Tercer Frente",
+        "province_id": "34",
+        "slug": "tercer-frente"
+    },
+    {
+        "id": "3409",
+        "name": "Guamá",
+        "province_id": "34",
+        "slug": "guama"
+    },
+    {
+        "id": "3501",
+        "name": "El Salvador",
+        "province_id": "35",
+        "slug": "el-salvador"
+    },
+    {
+        "id": "3502",
+        "name": "Manuel Tames",
+        "province_id": "35",
+        "slug": "manuel-tames"
+    },
+    {
+        "id": "3503",
+        "name": "Yateras",
+        "province_id": "35",
+        "slug": "yateras"
+    },
+    {
+        "id": "3504",
+        "name": "Baracoa",
+        "province_id": "35",
+        "slug": "baracoa"
+    },
+    {
+        "id": "3505",
+        "name": "Maisí",
+        "province_id": "35",
+        "slug": "maisi"
+    },
+    {
+        "id": "3506",
+        "name": "Imías",
+        "province_id": "35",
+        "slug": "imias"
+    },
+    {
+        "id": "3507",
+        "name": "San Antonio del Sur",
+        "province_id": "35",
+        "slug": "san-antonio-del-sur"
+    },
+    {
+        "id": "3508",
+        "name": "Caimanera",
+        "province_id": "35",
+        "slug": "caimanera"
+    },
+    {
+        "id": "3509",
+        "name": "Guantánamo",
+        "province_id": "35",
+        "slug": "guantanamo"
+    },
+    {
+        "id": "3510",
+        "name": "Niceto Pérez",
+        "province_id": "35",
+        "slug": "niceto-perez"
+    },
+    {
+        "id": "4001",
+        "name": "Isla de la Juventud",
+        "province_id": "40",
+        "slug": "isla-de-la-juventud"
+    }
+]
